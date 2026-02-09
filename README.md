@@ -1,4 +1,4 @@
-# GIT-Calculator
+# github-final-project
 
 ## Practice Project 1: Simple Interest Calculator
 
