@@ -1,7 +1,6 @@
 curl command used:
 
-curl https://api.github.com/repos/JK-0096/GIT-Calculator/pulls/3 -UseBasicParsing
-
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1 -UseBasicParsing
 
 Terminal output:
 
@@ -9,9 +8,10 @@ StatusCode        : 200
 StatusDescription : OK
 Content           : {
   "head": {
-    "label": "JK-0096:bug-fix-typo",
+    "label": "JK-0096:patch-1",
+    "ref": "patch-1",
     "repo": {
-      "full_name": "JK-0096/GIT-Calculator",
+      "full_name": "JK-0096/github-final-project",
       "fork": true
     }
   }
