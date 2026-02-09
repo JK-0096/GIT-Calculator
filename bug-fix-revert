@@ -1,0 +1,18 @@
+curl command used:
+
+curl https://api.github.com/repos/JK-0096/GIT-Calculator/pulls/3 -UseBasicParsing
+
+
+Terminal output:
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {
+  "head": {
+    "label": "JK-0096:bug-fix-typo",
+    "repo": {
+      "full_name": "JK-0096/GIT-Calculator",
+      "fork": true
+    }
+  }
+}
